@@ -54,3 +54,8 @@ Doppler bin = 7.8 m/s, receiver is deaf for the first 1.5 km while the pulse is 
 * CA-CFAR assumes noise-like surroundings. Stationary clutter breaks that, so the PPI/Doppler detectors also
   enforce a minimum margin above the local average (see `ppi_margin_db`, `rd_margin_db` in `config.py`).
   The measured noise-only false alarm rate lands within about 2x of the design value.
+
+
+## thank you for reading the whole docuent
+
+## :)
